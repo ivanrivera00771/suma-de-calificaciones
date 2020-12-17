@@ -28,7 +28,7 @@ public class IntroducirCalificaciones {
         
         double suma = uno+dos+tres;
         
-        System.out.println("la suma de las calificaciones es " + suma);
+        System.out.println("\nla suma de las calificaciones es " + suma);
         
         ///// otra forma
          
@@ -42,7 +42,7 @@ public class IntroducirCalificaciones {
         
         sumas = nota1+nota2+nota3;
         
-        System.out.println("Las calificaciones son " +suma);
+        System.out.println("\nLas calificaciones son " +suma);
         
        
                 
